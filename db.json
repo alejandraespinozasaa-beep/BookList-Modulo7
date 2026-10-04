@@ -1,0 +1,59 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "titulo": "El Principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "categoria": "Novela",
+      "descripcion": "Una historia sobre la amistad, el amor y la vida.",
+      "imagen": "/portadas/el-principito.jpg",
+      "publicado": true
+    },
+    {
+      "id": "2",
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "categoria": "Ciencia ficción",
+      "descripcion": "Una novela sobre una sociedad sometida a vigilancia constante.",
+      "imagen": "/portadas/1984.jpg",
+      "publicado": true
+    },
+    {
+      "id": "3",
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "categoria": "Novela",
+      "descripcion": "Una historia sobre relaciones, prejuicios y diferencias sociales.",
+      "imagen": "/portadas/orgullo-prejuicio.jpg",
+      "publicado": true
+    },
+    {
+      "id": "4",
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "categoria": "Ciencia ficción",
+      "descripcion": "La historia de un científico y las consecuencias de su creación.",
+      "imagen": "/portadas/frankenstein.jpg",
+      "publicado": true
+    },
+    {
+      "id": "5",
+      "titulo": "El diario de Ana Frank",
+      "autor": "Ana Frank",
+      "categoria": "Biografía",
+      "descripcion": "El testimonio de una joven durante la ocupación nazi de los Países Bajos.",
+      "imagen": "/portadas/ana-frank.jpg",
+      "publicado": false
+    },
+    {
+      "id": "6",
+      "titulo": "El Hobbit",
+      "autor": "J. R. R. Tolkien",
+      "categoria": "Fantasía",
+      "descripcion": "La aventura de Bilbo Bolsón en un viaje inesperado por la Tierra Media.",
+      "imagen": "/portadas/el-hobbit.jpg",
+      "publicado": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
